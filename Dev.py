@@ -1,6 +1,6 @@
 /* MIT License
 
-Copyright (c) 2018 <ADD UR NAME HERE NAIA>
+Copyright (c) 2018 N3rdiT3chG1rL
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
